@@ -1,0 +1,30 @@
+body{
+    background-color: #0048e2;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 400;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1d64fc;
+    color: #ffffff;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 300;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+}
+
+.Menu{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.Contatos {
+    color: #ffffff;
+}
